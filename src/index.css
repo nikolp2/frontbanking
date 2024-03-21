@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.item_on_center{
+  background-image: url(/Fish-Yin-Yang-Bg.svg);
+  background-size: cover;
+}
